@@ -25,25 +25,25 @@ All the datasets can be obtained from [Google Drive](https://drive.google.com/fi
 
 ```bash
 # ECL
-bash ./scripts/ECL/DB_transF.sh
+bash ./scripts/ECL/DB2_transF.sh
 # Exchange
-bash ./scripts/Exchange/DB_transF.sh
+bash ./scripts/Exchange/DB2_transF.sh
 # Traffic
-bash ./scripts/Traffic/DB_transF.sh
+bash ./scripts/Traffic/DB2_transF.sh
 # Weather
-bash ./scripts/Weather/DB_transF.sh
+bash ./scripts/Weather/DB2_transF.sh
 # Solar-Energy
-bash ./scripts/SolarEnergy/DB_transF.sh
+bash ./scripts/SolarEnergy/DB2_transF.sh
 # PEMS
-bash ./scripts/PEMS/DB_transF_03.sh
-bash ./scripts/PEMS/DB_transF_04.sh
-bash ./scripts/PEMS/DB_transF_07.sh
-bash ./scripts/PEMS/DB_transF_08.sh
+bash ./scripts/PEMS/DB2_transF_03.sh
+bash ./scripts/PEMS/DB2_transF_04.sh
+bash ./scripts/PEMS/DB2_transF_07.sh
+bash ./scripts/PEMS/DB2_transF_08.sh
 # ETT
-bash ./scripts/ETT/DB_transF_ETTm1.sh
-bash ./scripts/ETT/DB_transF_ETTm2.sh
-bash ./scripts/ETT/DB_transF_ETTh1.sh
-bash ./scripts/ETT/DB_transF_ETTh2.sh
+bash ./scripts/ETT/DB2_transF_ETTm1.sh
+bash ./scripts/ETT/DB2_transF_ETTm2.sh
+bash ./scripts/ETT/DB2_transF_ETTh1.sh
+bash ./scripts/ETT/DB2_transF_ETTh2.sh
 ```
 
 ## Citation
