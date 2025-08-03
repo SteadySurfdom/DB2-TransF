@@ -1,6 +1,6 @@
 # DB2-TransF: All You Need Is Learnable Daubechies Wavelets for Time Series Forecasting
 
-![model](assets/DB2-TransF.pdf)
+![model](assets/DB2-TransF.png)
 
 ## Contributions :trophy:
 
