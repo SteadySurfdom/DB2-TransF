@@ -1,5 +1,15 @@
 # DB2-TransF: All You Need Is Learnable Daubechies Wavelets for Time Series Forecasting
 
+## 📄 Paper
+[![Paper](https://img.shields.io/badge/Paper-PDF-red)](Db2_TransF.pdf)  
+
+**Authors:** Moulik Gupta, Achyut Mani Tripathi (2025)  
+
+Official implementation of the research paper:  
+*DB2-TransF: All You Need Is Learnable Daubechies Wavelets for Time Series Forecasting*  
+
+---
+
 ![model](assets/DB2-TransF.png)
 
 ## Contributions :trophy:
