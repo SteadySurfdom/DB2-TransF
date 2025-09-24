@@ -1,7 +1,7 @@
 # DB2-TransF: All You Need Is Learnable Daubechies Wavelets for Time Series Forecasting
 
 ## 📄 Paper
-[![Paper](https://img.shields.io/badge/Paper-PDF-red)](Db2_TransF.pdf)  
+[![Paper](https://img.shields.io/badge/Paper-PDF-red)](Db2_TransF.pdf) [![Journal](https://img.shields.io/badge/Elsevier-Neural_Networks_(Under_Review)-grey)](Db2_TransF.pdf)
 
 **Authors:** Moulik Gupta, Achyut Mani Tripathi (2025)  
 
